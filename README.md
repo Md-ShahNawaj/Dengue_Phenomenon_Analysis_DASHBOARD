@@ -21,7 +21,7 @@ Welcome to my **Dengue Data Analysis** project! This interactive dashboard, buil
   - Male: 47%  
 - **Most Affected Age Group:** 28–37 years  
 - **Top 5 Affected Areas:**  
-  - Jamtabari  
+  - Jatrabari  
   - Derma  
   - Bangshal  
   - Tajgaon  
